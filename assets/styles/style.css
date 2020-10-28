@@ -29,6 +29,10 @@ header {
   font-weight: bold;
 }
 
+.banner > * {
+  margin: 0px;
+}
+
 nav a {
   color: white;
   margin: 0.5rem;
@@ -112,7 +116,7 @@ img {
 }
 
 footer {
-  background-color: cornflowerblue;
+  background: #14274A;
   color: white;
   font-weight: light;
   display: -webkit-box;
